@@ -1,0 +1,3 @@
+display_name: Desktop Pet
+short_description: Build, repair, validate, and install high-DPI pets for the Tauri launcher.
+default_prompt: Create or validate a 4x Desktop Pet Launcher package and install it into a launcher scan folder.

@@ -1,0 +1,6 @@
+# Running sheet layout repair
+
+Built-in image_gen; transparent background. Initial 4×2 draft rejected for insufficient cell separation.
+
+Repair the attached running animation sprite sheet ONLY for layout and frame separation. Preserve the SAME silver-haired red-eyed chibi boy, outfit, crisp art and right-facing run-cycle poses. Output a genuine transparent sprite sheet with exactly EIGHT separate fully-contained sprites in TWO COLUMNS by FOUR ROWS. Each cell has 20% empty transparent padding on all sides. Every character is wholly inside its own equal rectangular cell: no hair, hand, coat tip or cropped thigh edge may cross a cell boundary. Do NOT crop heads/coats against the image edges. Center every character in its cell. Arrange the eight original chronological poses from the original 4-by-2 sheet in reading order across this new 2-by-4 grid, preserving forward chronological order. Keep all heads equal scale. Maintain articulated elbow and thigh alternation, clear rightward three-quarter gaze, coat flutter and focused expression. Upper-thigh crop matches original framing; no feet. Frame1 contact,2down,3passing,4up,5opposite contact,6down,7passing,8up. No labels, numbers, grid lines or backgrounds. Critical: exact 2 columns, 4 rows, clear empty gutters between all sprites. Tall canvas, desired 1536x3328 if supported.
+

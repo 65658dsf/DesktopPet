@@ -1,0 +1,149 @@
+{
+  "id": "qinche-q",
+  "name": "秦彻",
+  "displayName": "秦彻",
+  "description": "《恋与深空》秦彻 Q版桌宠（同人二次创作，仅供个人使用）",
+  "spritesheetPath": "spritesheet.webp",
+  "spritesheets": {
+    "1x": "spritesheet.webp",
+    "2x": "spritesheet@2x.webp"
+  },
+  "cellSize": {
+    "width": 192,
+    "height": 208
+  },
+  "sourceScale": 2,
+  "pixelated": false,
+  "version": "1.3.0",
+  "animationClips": {
+    "idle": {
+      "spritesheetPath": "animations/blink.png",
+      "columns": 3,
+      "frameCount": 6,
+      "durations": [[3000, 5800], 55, 45, 80, 65, 180],
+      "blinkFrames": [1, 2, 3, 4],
+      "contentHeight": 150,
+      "baseline": 190
+    },
+    "chin-rest": {
+      "spritesheetPath": "animations/chin-rest.png",
+      "columns": 3,
+      "frameCount": 6,
+      "durations": [180, 170, [2200, 3600], 100, 180, 200],
+      "blinkFrames": [3],
+      "contentHeight": 150,
+      "baseline": 190
+    },
+    "poke": {
+      "spritesheetPath": "animations/poke.png",
+      "columns": 3,
+      "frameCount": 8,
+      "frames": [
+        {"rect": [0, 0, 401, 435]},
+        {"rect": [401, 0, 402, 435]},
+        {"rect": [803, 0, 402, 435]},
+        {"rect": [0, 435, 401, 435]},
+        {"rect": [803, 435, 402, 435]},
+        {"rect": [0, 870, 401, 435]},
+        {"rect": [401, 870, 402, 435]},
+        {"rect": [803, 870, 402, 435]}
+      ],
+      "durations": [80, 65, 75, 125, 300, 120, 110, 210],
+      "blinkFrames": [2],
+      "contentHeight": 150,
+      "baseline": 190
+    },
+    "running-right": {
+      "spritesheetPath": "animations/running-right.png",
+      "columns": 2,
+      "frameCount": 8,
+      "durations": [100, 95, 95, 105, 100, 95, 95, 105],
+      "contentHeight": 150,
+      "baseline": 190,
+      "offsets": [[0, 0], [0, 1], [0, -1], [0, -2], [0, 0], [0, 1], [0, -1], [0, -2]]
+    },
+    "running-left": {
+      "spritesheetPath": "animations/running-left.png",
+      "columns": 2,
+      "frameCount": 8,
+      "durations": [100, 95, 95, 105, 100, 95, 95, 105],
+      "contentHeight": 150,
+      "baseline": 190,
+      "offsets": [[0, 0], [0, 1], [0, -1], [0, -2], [0, 0], [0, 1], [0, -1], [0, -2]]
+    },
+    "waving": {
+      "spritesheetPath": "animations/waving.png",
+      "columns": 2,
+      "frameCount": 4,
+      "frames": [
+        {"rect": [0, 0, 603, 646]}, {"rect": [603, 0, 603, 646]},
+        {"rect": [0, 646, 603, 659]}, {"rect": [603, 646, 603, 659]}
+      ],
+      "durations": [170, 190, 190, 450],
+      "blinkFrames": [2],
+      "contentHeight": 150,
+      "baseline": 190
+    },
+    "jumping": {
+      "spritesheetPath": "animations/jumping.png",
+      "columns": 3,
+      "frameCount": 5,
+      "durations": [180, 90, 170, 120, 420],
+      "contentHeight": 150,
+      "baseline": 190,
+      "offsets": [[0, 3], [0, -12], [0, -25], [0, 4], [0, 0]]
+    },
+    "failed": {
+      "spritesheetPath": "animations/failed.png",
+      "columns": 2,
+      "frameCount": 8,
+      "frames": [
+        {"rect": [0, 0, 426, 493]}, {"rect": [426, 0, 426, 493]},
+        {"rect": [0, 493, 426, 460]}, {"rect": [426, 493, 426, 460]},
+        {"rect": [0, 953, 426, 450]}, {"rect": [426, 953, 426, 450]},
+        {"rect": [0, 1403, 426, 443]}, {"rect": [426, 1403, 426, 443]}
+      ],
+      "durations": [160, 150, 170, 230, 600, 220, 180, 450],
+      "contentHeight": 150,
+      "baseline": 190
+    },
+    "waiting": {
+      "spritesheetPath": "animations/waiting.png",
+      "columns": 3,
+      "frameCount": 6,
+      "durations": [750, 140, 190, 95, 500, 700],
+      "blinkFrames": [3],
+      "contentHeight": 150,
+      "baseline": 190
+    },
+    "running": {
+      "spritesheetPath": "animations/running.png",
+      "columns": 3,
+      "frameCount": 6,
+      "durations": [240, 130, 150, 400, 180, 160],
+      "contentHeight": 150,
+      "baseline": 190
+    },
+    "review": {
+      "spritesheetPath": "animations/review.png",
+      "columns": 3,
+      "frameCount": 6,
+      "durations": [450, 240, 650, 130, 240, 450],
+      "blinkFrames": [3],
+      "contentHeight": 150,
+      "baseline": 190
+    }
+  },
+  "author": "DesktopPet (fan art)",
+  "tags": [
+    "恋与深空",
+    "秦彻",
+    "Q版",
+    "chibi"
+  ],
+  "license": "Fan Art - Personal Use Only",
+  "preview": "preview.png",
+  "format": "atlas-8x9",
+  "resolution": "192x208",
+  "createdAt": "2026-10-08"
+}

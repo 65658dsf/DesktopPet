@@ -1,0 +1,119 @@
+{
+  "idle": {
+    "frames": 6,
+    "x": [
+      154,
+      616
+    ],
+    "y": [
+      140,
+      774
+    ],
+    "delta_mean": 32.5,
+    "moved_pct": 31.33
+  },
+  "running-right": {
+    "frames": 8,
+    "x": [
+      175,
+      653
+    ],
+    "y": [
+      140,
+      785
+    ],
+    "delta_mean": 53.06,
+    "moved_pct": 46.09
+  },
+  "running-left": {
+    "frames": 8,
+    "x": [
+      94,
+      619
+    ],
+    "y": [
+      140,
+      769
+    ],
+    "delta_mean": 53.08,
+    "moved_pct": 46.29
+  },
+  "waving": {
+    "frames": 4,
+    "x": [
+      131,
+      623
+    ],
+    "y": [
+      151,
+      776
+    ],
+    "delta_mean": 50.86,
+    "moved_pct": 42.87
+  },
+  "jumping": {
+    "frames": 5,
+    "x": [
+      145,
+      622
+    ],
+    "y": [
+      52,
+      777
+    ],
+    "delta_mean": 91.84,
+    "moved_pct": 66.06
+  },
+  "failed": {
+    "frames": 8,
+    "x": [
+      114,
+      617
+    ],
+    "y": [
+      209,
+      788
+    ],
+    "delta_mean": 30.92,
+    "moved_pct": 30.48
+  },
+  "waiting": {
+    "frames": 6,
+    "x": [
+      146,
+      616
+    ],
+    "y": [
+      141,
+      778
+    ],
+    "delta_mean": 42.22,
+    "moved_pct": 38.51
+  },
+  "running": {
+    "frames": 6,
+    "x": [
+      143,
+      618
+    ],
+    "y": [
+      143,
+      761
+    ],
+    "delta_mean": 51.61,
+    "moved_pct": 43.43
+  },
+  "review": {
+    "frames": 6,
+    "x": [
+      133,
+      625
+    ],
+    "y": [
+      151,
+      773
+    ],
+    "delta_mean": 42.35,
+    "moved_pct": 37.72
+  }
+}

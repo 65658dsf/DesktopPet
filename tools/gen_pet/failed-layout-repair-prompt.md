@@ -1,0 +1,6 @@
+# Failed sheet layout repair
+
+Built-in image_gen; transparent background. Initial 4×2 draft rejected for insufficient cell separation.
+
+Repair the attached 'oops / facepalm' animation sheet ONLY for layout, preserving its eight poses and exact same silver-haired red-eyed chibi character, outfit, face and crisp artwork. Real transparent background. EXACTLY EIGHT separate fully-contained sprites in TWO COLUMNS by FOUR ROWS. Tall canvas, desired1536x3328. Every equal-sized cell must have 20% transparent margin on all sides; clean empty horizontal and vertical gutters. No character part may touch/cross cell or image boundaries. Keep head scales identical in all8. Transfer original chronological poses from the4x2 sheet into2x4 order left-to-right then next row: (1)noticesproblem handnear chin, (2)surprised shoulderslift, (3)same screen-left hand rises towardforehead, (4)palm onforehead tired, (5)facepalm eyesclosed, (6)palmslides totemple weary eyesopen, (7)handopens andlowers, (8)near-neutral handat chin tinyresignedsmile. This is coherent same-side arm movement; otherarm stays crossed. Upper-thigh crop matches original, nofeet. Preserveactualarticulatedposes; no smears/duplicatelimbs, text, numbers, gridlines, decoration or floor shadow. CRITICAL accurate 2 columns ×4 rows and generous transparent margins.
+
